@@ -28,7 +28,7 @@
       alert("첫번째 문제입니다 잘 맞춰주세요")
     }
   </script>
-  <h1><center> "이 개의 종은 무엇일까요?" </cneter></h1><br>
+  <h1><center> "이 개의 종은 무엇일까요?" </center></h1><br>
   <br>
   <br>
   <img src="http://blogfiles7.naver.net/20130707_201/junsusobagi_1373172601010umt0X_JPEG/Pomeranian-Puppy10.jpg=onclick"
